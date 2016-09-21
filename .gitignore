@@ -4,6 +4,9 @@ Project Logs for PJ1301-001-A1
 Project Outputs for PJ1301-001-A1
 *.Cam
 *.pdf
+*.htm
+*.PrjPCB
+*.PrjPCBStructure
 __Previews
 
 
